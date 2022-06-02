@@ -1,0 +1,17 @@
+{
+  "name": "emailwebapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "runnode": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/communication-email": "^1.0.0-beta.1",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  }
+}
